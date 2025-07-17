@@ -43,5 +43,37 @@
       "url": "https://www.thebusinessresearchcompany.com/report/iot-global-market-report",
       "morelink": "The Business Research Company"
     }
+    
+   {
+      "title": "Android Studio Koala",
+      "description": "Android Studio Koala is the latest IDE version in 2025, focusing on improved performance, Kotlin Multiplatform support, and integrated AI assistance via Gemini in Android Studio. It introduces an upgraded Compose UI preview, live editing, and enhanced emulator tools.",
+      "url": "https://developer.android.com/studio/releases"
+   },
+   {
+      "title": "Matter 1.3 Release",
+      "description": "Matter 1.3, released in May 2025, expands smart home interoperability with support for new device types like robot vacuums, ovens, and EV chargers. It also improves energy reporting and multi-admin functionality, strengthening the open-source IoT ecosystem.",
+      "url": "https://csa-iot.org/newsroom/matter-1-3-release"
+   },
+   {
+      "title": "Raspberry Pi 5 IoT Expansion Kits",
+      "description": "Raspberry Pi Foundation introduced new IoT-focused expansion kits for Raspberry Pi 5 in March 2025, including integrated sensors, edge ML support, and compatibility with the Matter protocol, making rapid IoT prototyping more accessible.",
+      "url": "https://www.raspberrypi.com/news/pi5-iot-kits-2025"
+   },
+   {
+      "title": "Google Cloud IoT Core Successor Launched",
+      "description": "In February 2025, Google unveiled a new scalable IoT platform under Google Cloud, replacing IoT Core. It supports MQTT, HTTP, and seamless integration with Vertex AI for smart edge analytics and automation.",
+      "url": "https://cloud.google.com/blog/products/iot/google-cloud-iot-core-successor"
+   },
+   {
+      "title": "Azure Sphere Public Preview with RTOS Enhancements",
+      "description": "Microsoft’s Azure Sphere received a major update in January 2025, including real-time operating system (RTOS) enhancements, faster OTA updates, and expanded device support for secure industrial IoT applications.",
+      "url": "https://techcommunity.microsoft.com/t5/internet-of-things/bg-p/IoT"
+   },
+   {
+      "title": "ESP32-C6 Gains Mainstream Adoption",
+      "description": "The ESP32-C6, Espressif’s low-power Wi-Fi 6 and Bluetooth 5 LE chip, became widely adopted in Q1 2025. It is praised for its affordable performance in smart sensors, wearables, and connected appliances.",
+      "url": "https://www.espressif.com/en/products/socs/esp32-c6"
+   }
+
   ]
 }
