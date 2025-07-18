@@ -3,91 +3,76 @@
     {
       "followLink": "https://twitter.com/petewarden",
       "photo": "PeteWarden.jpg",
-      "test": "iot-follow",
       "name": "Pete Warden"
     },
     {
       "followLink": "https://twitter.com/staceyhigginb",
       "photo": "StaceyHigginbotham.jpg",
-      "test": "iot-follow",
       "name": "Stacey Higginbotham"
     },
     {
       "followLink": "https://twitter.com/alexwilliams",
       "photo": "AlexWilliams.jpg",
-      "test": "iot-follow",
       "name": "Alex Williams"
     },
     {
       "followLink": "https://twitter.com/josephmishriki",
       "photo": "JosephMishriki.jpg",
-      "test": "iot-follow",
       "name": "Joseph Mishriki"
     },
     {
       "followLink": "https://twitter.com/sarah_richards",
       "photo": "SarahRichards.jpg",
-      "test": "iot-follow",
       "name": "Sarah Richards"
     },
     {
       "followLink": "https://twitter.com/IoTRecruiter",
       "photo": "BillMcCabe.jpg",
-      "test": "iot-follow",
       "name": "Bill McCabe"
     },
     {
       "followLink": "https://twitter.com/M2M_IoTNews",
       "photo": "M2M_IoTNews.jpg",
-      "test": "iot-follow",
       "name": "IoT M2M Council"
     },
     {
       "followLink": "https://twitter.com/DanielElizalde",
       "photo": "DanielElizalde.jpg",
-      "test": "iot-follow",
       "name": "Daniel Elizalde"
     },
     {
       "followLink": "https://twitter.com/benedict_evans",
       "photo": "BenedictEvans.jpg",
-      "test": "iot-follow",
       "name": "Benedict Evans"
     },
     {
       "followLink": "https://twitter.com/IoTNowTransport",
       "photo": "IoTNowTransport.jpg",
-      "test": "iot-follow",
       "name": "IoT Now Transport"
     },
     {
       "followLink": "https://twitter.com/mariarosacoelho",
       "photo": "MariaRosaCoelho.jpg",
-      "test": "iot-follow",
       "name": "Maria Rosa Coelho"
     },
     {
       "followLink": "https://twitter.com/helengloveriot",
       "photo": "HelenGlover.jpg",
-      "test": "iot-follow",
       "name": "Helen Glover"
     },
     {
       "followLink": "https://twitter.com/bradleychambers",
       "photo": "BradleyChambers.jpg",
-      "test": "iot-follow",
       "name": "Bradley Chambers"
     },
     {
       "followLink": "https://twitter.com/IoTForAll",
       "photo": "IoTForAll.jpg",
-      "test": "iot-follow",
       "name": "IoT For All"
     },
     {
       "followLink": "https://twitter.com/johnaheath",
       "photo": "JohnHeath.jpg",
-      "test": "iot-follow",
       "name": "John A. Heath"
     }
   ]
